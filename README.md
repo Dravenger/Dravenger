@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dravenger
-- 👀 I’m interested in python, C/C++, rust, AI, embedded systems / low level programming and cyber security
-- 🌱 I’m currently learning C/C++ and HDL-Languages(verilog)
+- 👀 I’m interested in python, C/C++, AI, embedded systems / low level programming and cyber security
+- 🌱 I’m currently learning C/C++ and HDL-Languages(mainly verilog)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: not at all
 
